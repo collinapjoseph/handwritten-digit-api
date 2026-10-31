@@ -2,7 +2,7 @@
 Collin Joseph <br>
 ## Run
 ### Docker
-1. Pull Docker image from Docker Hub [collinapjosep/handwritten-digit-api](https://hub.docker.com/repository/docker/collinapjoseph/handwritten-digit-api/general)
+1. Pull Docker image from Docker Hub [collinapjoseph/handwritten-digit-api](https://hub.docker.com/repository/docker/collinapjoseph/handwritten-digit-api/general)
 2. Build image to a container
 3. Run container: `docker run -p 8000:8000 collinapjoseph/handwritten-digit-api`
 ### Local
